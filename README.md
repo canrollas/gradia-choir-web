@@ -2,7 +2,7 @@
  
 <!-- Tanıtım -->
 İzmir Yüksek Teknoloji Enstitüsü (İYTE) Polifoni Topluluğu'nun resmi korosu olan Gradia Koro'nun web sitesi. Müziğin birleştirici gücüyle, çok sesli koro müziğini İzmir'de yaşatmayı ve yaygınlaştırmayı hedefliyoruz.
-
+- live url : https://gradiakoro.com/ 
 ## 🌟 Özellikler
 
 ![Next.js](https://img.shields.io/badge/Next.js-13-black?style=for-the-badge&logo=next.js)
