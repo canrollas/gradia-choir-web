@@ -103,7 +103,7 @@ export default function Home() {
                 Etkinlik Programımız
               </h2>
               <p className="text-lg sm:text-xl text-gray-600 mb-6 sm:mb-8">
-                Etkinlik programımızı görmek için lütfen bize tıklayın
+                Etkinlik programımızı görmek için lütfen iletişime tıklayın
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
