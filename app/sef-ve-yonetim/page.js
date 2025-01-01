@@ -31,7 +31,7 @@ export default function SefVeYonetim() {
               </p>
 
               <p>
-                Kariyeri boyunca çeşitli koroların şefliğini üstlenen Babacan, özellikle ödüllü Rezonans Korosu ile elde ettiği başarılarla dikkat çekmiştir. Rezonans Korosu'nda gerçekleştirdiği çalışmalarla, çok sesli koro müziğine yenilikçi yaklaşımlar kazandırmış ve yüksek kaliteli performanslarıyla adından söz ettirmiştir.
+                Kariyeri boyunca çeşitli koroların şefliğini üstlenen Babacan, özellikle ödüllü Rezonans Korosunda korist olarak elde ettiği başarılarla dikkat çekmiştir. Korolarda gerçekleştirdiği çalışmalarla, çok sesli koro müziğine yenilikçi yaklaşımlar kazandırmış ve yüksek kaliteli performanslarıyla adından söz ettirmiştir.
               </p>
 
               <p>
